@@ -9,4 +9,4 @@ Pontos a serem avaliados:
 - O código atende o que está sendo proposto no desafio?
 -  - Sim
 - Qual é o nivel de dificuldade para adição de uma novas etapas a cadeia?
--  - Não há dificuldade, além de haver inúmeras formas de alterar o sequenciamento dinamicamente
+-  - Não há dificuldade de incluir um novo agente ou comportamento na sequencia, além de haver inúmeras formas de alterar o sequenciamento dinamicamente
